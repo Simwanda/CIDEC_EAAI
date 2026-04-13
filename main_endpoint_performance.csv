@@ -1,0 +1,4 @@
+target,split_mode,mae,r2,label,validation_label
+carbonation_depth_mm,plain,2.515457774771265,0.8510233930566663,Carbonation depth,Plain CV
+embodied_carbon_actual,plain,2.429172534698448,0.9993879640484652,Embodied carbon,Plain CV
+strength_mpa,group,7.47587112147553,0.6359654261573515,Strength,Grouped CV
